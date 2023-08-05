@@ -1,0 +1,6 @@
+src/database.db
+src/__pycache__
+.pytest_cache
+.vscode
+database.db
+```
